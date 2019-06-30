@@ -2,7 +2,7 @@
   "name": "edrans",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myedransweather.com",
+  "homepage": "https://paolairinaldis.github.io/weather",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
